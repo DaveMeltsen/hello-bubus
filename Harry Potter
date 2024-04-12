@@ -1,0 +1,43 @@
+<html>
+<title>Гаррі Поттер</title>
+<header style="background-color:purple;">
+<a style="color:yellow;font-family:sans-serif;" href="https://harrypotter.fandom.com/ru/wiki/Wizarding_World_(%D1%81%D0%B0%D0%B9%D1%82)">Хто створив</a>
+<h1 style="text-align:center;font-size:50px;color:white"><i>Гаррі Поттер</i></h1>
+<h2 style="text-align:center;font-size:40px;background-color:white;font-family:sans-serif;">Хто помер</h2>
+<table style="border:1px solid blue;background-color:red;font-size:20px;color:white;font-family:sans-serif;">
+<tr>
+<td style="border:1px solid yellow;">У 4 книзі</td>
+<td>Барті Крауч</td>
+<td>Седрік Дігорі<img src="https://i.pinimg.com/736x/a9/8f/bf/a98fbfceaf3d62f109be5eac21c958f1.jpg" width="30px" height="30px"/></td>
+<td>Берта Джоркінс</td>
+</tr>
+<tr>
+<td style="border:1px solid yellow;">У 5 книзі</td>
+<td>Регулус Блек</td>
+<td>Сіріус Блек<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5J5cuVnJAh2mIdBQzdi5r_12479JWZXp37g&s" width="30px" height="30px"/></td>
+</tr>
+<tr>
+<td style="border:1px solid yellow;">У 6 книзі</td>
+<td>Игор Каркаров</td>
+<td>Арагог</td>
+<td>Альбус Дамблдор<img src="https://i.insider.com/5f74dff70ab50d00184ad67e?width=1136&format=jpeg" width="30px" height="30px"/></td>
+</tr>
+<tr>
+<td style="border:1px solid yellow;">У 7 книзі</td>
+<td>Аластор Грюм<img src="https://images.ctfassets.net/usf1vwtuqyxm/7i69Kt4D53SmlEspVmOVmV/055fc05219b45558c3cedb8b122af3c8/alastor-mad-eye-moody_1_1800x1248.png" width="30px" height="30px"/></td>
+<td>Доббі<img src="https://avatars.dzeninfra.ru/get-zen_doc/9686459/pub_648864c4e959a90e077f84b4_648864e848f62c2aa7221747/scale_1200" width="30px" height="30px"/></td>
+<td>Фред Уізлі<img src="https://www.thesun.co.uk/wp-content/uploads/2018/09/NINTCHDBPICT000433248738.jpg" width="30px" height="30px"/></td>
+<td>Северус Снейп<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Ootp076.jpg" width="30px" height="30px"/></td>
+<td>Рімус Люпін<img src="https://media.harrypotterfanzone.com/remus-lupin-prisoner-of-azkaban-portrait.jpg" width="30px" height="30px"/></td>
+</tr> 
+</table>
+<a style="color:yellow;font-family:sans-serif;" href="https://en.wikipedia.org/wiki/Harry_Potter">Інформація</a>
+</header>
+<main>
+<h2 style="text-align:center;font-size:40px;font-family:sans-serif;">Історія</h2>
+<p  style="font-size:20px;background-color:yellow;font-family:sans-serif;"><b>Гаррі Джеймс Поттер-найзнаменитіший студент Гоґвортсу за останні сто років.</b> Перший чарівник, якому вдалося протистояти вбивчому прокляттю Авада Кедавра. <b>Героїчно бився з Лордом Волдемортом і його послідовниками-смертежерами.</b> Єдиний, кому вдавалося залишитися живим після шести поєдинків з Темним Лордом і хто, врешті-решт, переміг його. <b>У Школі Чарів і Чаклунства Гоґвортс його найкращими друзями були чарівники Рон Уізлі і Герміона Ґрейнджер.</b> Його найцікавішою особистою прикметою є шрам у вигляді блискавки на лобі, який з'явився коли Темний Лорд Волдеморт спробував вбити Гаррі ще малям, застосувавши закляття смерті Авада Кедавра.</p>
+</main>
+<footer>
+<p><img src="https://cdnn21.img.ria.ru/images/07e4/07/11/1574508695_411:0:974:563_1920x0_80_0_0_2a0ca2b0c32c883566852d1ca193c7a7.jpg" width="500px" height="450px"/><img src="https://n1s1.hsmedia.ru/b1/14/92/b11492da66f3299680668605ad2e63fb/480x497_0xac120003_3459082961595935020.jpg"/></p>
+</footer>
+    </html>
